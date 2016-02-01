@@ -1,4 +1,16 @@
-//: a Playground, following guidance from Swift Programing: The Big Nerd Ranch Guide by Matthew Mathias and John Gallagher. This particular literature was recommended by Professor Steinmetz at Augsburg College.
+//code used in this tutorial-- Copyright 2015, Big Nerd Ranch LLC.
+//Big Nerd Ranch's 'Swift Programming' was recommended to me by Augsburg College Professor Erik Steinmetz
+
+//Drew Hagen's Playground code & documentation on working through 'Swift Programming'
+
+//To anyone who found this on my GitHub,
+//Please assist yourself by buying the book:
+    //       http://amzn.com/0134398017
+
+    //My notes are sloppy, abbreviated and will not be effective in teaching anyone,
+        //nor is it intended to! It has been commited to my repository to prove that I have worked through this literature.
+
+//Seriously, don't cheat yourself out of proper education, or theif from the authors of this book-- BUY IT INSTEAD! Its worth every penny.
 
 import Cocoa
 
